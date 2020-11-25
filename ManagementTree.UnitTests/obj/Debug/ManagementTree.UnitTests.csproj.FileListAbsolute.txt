@@ -1,0 +1,16 @@
+C:\Projects\ManagementTree\ManagementTree\ManagementTree.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projects\ManagementTree\ManagementTree\ManagementTree.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projects\ManagementTree\ManagementTree\ManagementTree.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projects\ManagementTree\ManagementTree\ManagementTree.UnitTests\bin\Debug\ManagementTree.UnitTests.dll
+C:\Projects\ManagementTree\ManagementTree\ManagementTree.UnitTests\bin\Debug\ManagementTree.UnitTests.pdb
+C:\Projects\ManagementTree\ManagementTree\ManagementTree.UnitTests\bin\Debug\ManagementTreeLibrary.dll
+C:\Projects\ManagementTree\ManagementTree\ManagementTree.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Projects\ManagementTree\ManagementTree\ManagementTree.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Projects\ManagementTree\ManagementTree\ManagementTree.UnitTests\bin\Debug\ManagementTreeLibrary.pdb
+C:\Projects\ManagementTree\ManagementTree\ManagementTree.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Projects\ManagementTree\ManagementTree\ManagementTree.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Projects\ManagementTree\ManagementTree\ManagementTree.UnitTests\obj\Debug\ManagementTree.UnitTests.csprojAssemblyReference.cache
+C:\Projects\ManagementTree\ManagementTree\ManagementTree.UnitTests\obj\Debug\ManagementTree.UnitTests.csproj.CoreCompileInputs.cache
+C:\Projects\ManagementTree\ManagementTree\ManagementTree.UnitTests\obj\Debug\ManagementTree.UnitTests.csproj.CopyComplete
+C:\Projects\ManagementTree\ManagementTree\ManagementTree.UnitTests\obj\Debug\ManagementTree.UnitTests.dll
+C:\Projects\ManagementTree\ManagementTree\ManagementTree.UnitTests\obj\Debug\ManagementTree.UnitTests.pdb

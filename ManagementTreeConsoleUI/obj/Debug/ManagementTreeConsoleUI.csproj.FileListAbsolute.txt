@@ -1,0 +1,10 @@
+C:\Projects\ManagementTree\ManagementTree\ManagementTreeConsoleUI\bin\Debug\ManagementTreeConsoleUI.exe.config
+C:\Projects\ManagementTree\ManagementTree\ManagementTreeConsoleUI\bin\Debug\ManagementTreeConsoleUI.exe
+C:\Projects\ManagementTree\ManagementTree\ManagementTreeConsoleUI\bin\Debug\ManagementTreeConsoleUI.pdb
+C:\Projects\ManagementTree\ManagementTree\ManagementTreeConsoleUI\obj\Debug\ManagementTreeConsoleUI.csprojAssemblyReference.cache
+C:\Projects\ManagementTree\ManagementTree\ManagementTreeConsoleUI\obj\Debug\ManagementTreeConsoleUI.csproj.CoreCompileInputs.cache
+C:\Projects\ManagementTree\ManagementTree\ManagementTreeConsoleUI\obj\Debug\ManagementTreeConsoleUI.exe
+C:\Projects\ManagementTree\ManagementTree\ManagementTreeConsoleUI\obj\Debug\ManagementTreeConsoleUI.pdb
+C:\Projects\ManagementTree\ManagementTree\ManagementTreeConsoleUI\bin\Debug\ManagementTreeLibrary.dll
+C:\Projects\ManagementTree\ManagementTree\ManagementTreeConsoleUI\bin\Debug\ManagementTreeLibrary.pdb
+C:\Projects\ManagementTree\ManagementTree\ManagementTreeConsoleUI\obj\Debug\ManagementTreeConsoleUI.csproj.CopyComplete

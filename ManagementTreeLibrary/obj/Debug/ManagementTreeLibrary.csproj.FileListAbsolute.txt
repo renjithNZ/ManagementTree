@@ -1,0 +1,6 @@
+C:\Projects\ManagementTree\ManagementTree\ManagementTreeLibrary\obj\Debug\ManagementTreeLibrary.csprojAssemblyReference.cache
+C:\Projects\ManagementTree\ManagementTree\ManagementTreeLibrary\obj\Debug\ManagementTreeLibrary.csproj.CoreCompileInputs.cache
+C:\Projects\ManagementTree\ManagementTree\ManagementTreeLibrary\bin\Debug\ManagementTreeLibrary.dll
+C:\Projects\ManagementTree\ManagementTree\ManagementTreeLibrary\bin\Debug\ManagementTreeLibrary.pdb
+C:\Projects\ManagementTree\ManagementTree\ManagementTreeLibrary\obj\Debug\ManagementTreeLibrary.dll
+C:\Projects\ManagementTree\ManagementTree\ManagementTreeLibrary\obj\Debug\ManagementTreeLibrary.pdb
